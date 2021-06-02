@@ -16,3 +16,16 @@
 .footer-logo img {
     width: 50%;
 }
+
+.navbar h3 {
+    font-size: 27px;
+}
+
+.navbar-brand img,
+.top-nav-collapse .navbar-brand img {
+    width: 12%;
+}
+
+.navbar-brand {
+    display: inline;
+}
