@@ -29,3 +29,15 @@
 .navbar-brand {
     display: inline;
 }
+
+#hero-area {
+    background-image: none;
+}
+
+.intro-img img {
+    width: 90%;
+}
+
+.align-middle {
+    align-items: center;
+}
